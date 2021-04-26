@@ -4,7 +4,7 @@ Search commits, repositories, and issues Using Github Search API
 
 # Tech
 1. Dependecy Injection Using Swinject
-2. Programactic view SnapKit  
+2. Programatic view creation using SnapKit  
 3. Moya as Networking
 4. Code convention using Swiftlint
 5. MVVM-C Pattern
