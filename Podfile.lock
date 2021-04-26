@@ -1,0 +1,122 @@
+PODS:
+  - Alamofire (5.4.3)
+  - Differentiator (4.0.1)
+  - Hero (1.6.1)
+  - Kingfisher (5.15.8):
+    - Kingfisher/Core (= 5.15.8)
+  - Kingfisher/Core (5.15.8)
+  - Moya (14.0.0):
+    - Moya/Core (= 14.0.0)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - Moya/RxSwift (14.0.0):
+    - Moya/Core
+    - RxSwift (~> 5.0)
+  - Nimble (9.0.1)
+  - ObjectMapper (4.2.0)
+  - Quick (3.1.2)
+  - RxBlocking (5.1.1):
+    - RxSwift (~> 5)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxDataSources (4.0.1):
+    - Differentiator (~> 4.0)
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - RxKingfisher (1.0.0):
+    - Kingfisher (~> 5)
+    - RxCocoa (~> 5)
+    - RxSwift (~> 5)
+  - RxNimble (5.0.0):
+    - RxNimble/RxBlocking (= 5.0.0)
+  - RxNimble/Core (5.0.0):
+    - Nimble (~> 9.0)
+    - RxSwift (~> 5.0)
+  - RxNimble/RxBlocking (5.0.0):
+    - RxBlocking
+    - RxNimble/Core
+  - RxOptional (4.1.0):
+    - RxCocoa (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.2)
+  - RxTest (5.1.2):
+    - RxSwift (~> 5)
+  - SnapKit (5.0.1)
+  - SwiftLint (0.43.1)
+  - Swinject (2.7.1)
+  - SwinjectAutoregistration (2.7.0):
+    - Swinject (~> 2.7)
+
+DEPENDENCIES:
+  - Hero
+  - Kingfisher
+  - Moya
+  - Moya/RxSwift
+  - Nimble
+  - ObjectMapper
+  - Quick
+  - RxBlocking
+  - RxDataSources
+  - RxKingfisher
+  - RxNimble
+  - RxOptional
+  - RxSwift
+  - RxTest
+  - SnapKit
+  - SwiftLint
+  - Swinject (~> 2.7)
+  - SwinjectAutoregistration (~> 2.7)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Differentiator
+    - Hero
+    - Kingfisher
+    - Moya
+    - Nimble
+    - ObjectMapper
+    - Quick
+    - RxBlocking
+    - RxCocoa
+    - RxDataSources
+    - RxKingfisher
+    - RxNimble
+    - RxOptional
+    - RxRelay
+    - RxSwift
+    - RxTest
+    - SnapKit
+    - SwiftLint
+    - Swinject
+    - SwinjectAutoregistration
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  Differentiator: 886080237d9f87f322641dedbc5be257061b0602
+  Hero: 215865ba3ae41dd9bb08cd6c60a645529c6fc94b
+  Kingfisher: a3c03d702433fa6cfedabb2bddbe076fb8f2e902
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  Nimble: 7bed62ffabd6dbfe05f5925cbc43722533248990
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  Quick: 60f0ea3b8e0cfc0df3259a5c06a238ad8b3c46e0
+  RxBlocking: 5f700a78cad61ce253ebd37c9a39b5ccc76477b4
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxDataSources: efee07fa4de48477eca0a4611e6d11e2da9c1114
+  RxKingfisher: 0f07678aca3e6a20143dfba67ec2d2c70d443a9a
+  RxNimble: 3b757b0f8fb4dc487c3f9a383bc61a6f5bd72d28
+  RxOptional: b1fcd60856807a564c0215c2184b8d33e7826dc2
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 1e2e1f9570186967f617e49128ed26ccf1bafc8e
+  RxTest: 274549b747dca56f47c52c8991ec5cf797ecfe40
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwiftLint: 99f82d07b837b942dd563c668de129a03fc3fb52
+  Swinject: ddf78b8486dd9b71a667b852cad919ab4484478e
+  SwinjectAutoregistration: 330f5012642a8b5c89a8a4adb0c5e52df07382c0
+
+PODFILE CHECKSUM: 96685c62d116bb9eb848f54b2d57589a17e11fd1
+
+COCOAPODS: 1.10.0
